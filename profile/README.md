@@ -7,7 +7,7 @@
   - [`arduplant`](https://github.com/ma-metier/arduplant)
     MKR WiFi 1010 firmware with a built-in HTTP server (`/sensors`, `/metrics`, `/actuators/pump/commands`) plus a Node.js mock so you can prototype without hardware.
 
-  - [`grafaplant2`](https://github.com/ma-metier/grafaplant2)
+  - [`grafaplant`](https://github.com/ma-metier/grafaplant2)
     Docker Compose setup for Prometheus + Grafana, pre-provisioned dashboards, and datasource ready to scrape `http://arduplant-ip:4000/metrics`.
 
   - [`vueplant`](https://github.com/ma-metier/vueplant)
